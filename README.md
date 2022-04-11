@@ -1,3 +1,3 @@
-ここでは、カリキュラムにある完成版のコードをコピーし、bootstrapを導入しました。  
+ここではカリキュラムにある完成版のコードをコピーし、bootstrapを導入しました。  
 
-bootstrapのコードは調べながら進めましたが、基本的にbootstrapはmargin,paddingやfont-sizeの数値はbootstrap側が用意した数値になるかと思いますので、このcaravanで使っている数値がbootstrap側に用意されていない場合は基本的には書き換えずに進めました。  
+bootstrapのコードは調べながら進めましたが、bootstrapはmargin,paddingやfont-sizeのなどの数値はbootstrap側が用意した数値になるかと思いますので、このcaravanで使っている数値がbootstrap側に用意されていない場合は基本的には書き換えずに進めました。  
